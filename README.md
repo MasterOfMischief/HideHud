@@ -22,7 +22,7 @@ git clone: https://github.com/VeryBadApple/HideHud
 3) Add this in your server.cfg :
 
 ```
-start hideHUD
+start HideHud
 
 
 Press (f10) in game to hide the Hud
