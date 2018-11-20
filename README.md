@@ -26,7 +26,3 @@ start HideHud
 
 
 Press (f10) in game to hide the Hud
-
-*Go to line 6 to Change the Button 
-
-HideHudComponentThisFrame( 14 )
